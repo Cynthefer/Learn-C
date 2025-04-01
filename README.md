@@ -22,6 +22,6 @@
 </ul>
 <p>To get repocally, open your terminal & run:
 </p>
-'''
+```
 git clone https://github.com/Cynthefer/Learn-C
-'''
+```
