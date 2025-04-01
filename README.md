@@ -21,7 +21,8 @@
     <li>Operating System Development</li>
 </ul>
 <p>To get repocally, open your terminal & run:
-</p>
+<br />
 ```sh
 git clone https://github.com/Cynthefer/Learn-C
 ```
+</p>
