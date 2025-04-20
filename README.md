@@ -20,9 +20,9 @@
     <li>Compiler & Language Development</li>
     <li>Operating System Development</li>
 </ul>
+<br />
 <p>To get repocally, open your terminal & run:
 <br />
-```sh
-git clone https://github.com/Cynthefer/Learn-C
+```git clone https://github.com/Cynthefer/Learn-C
 ```
 </p>
