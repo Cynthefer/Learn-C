@@ -23,6 +23,6 @@
 <br />
 <p>To get repocally, open your terminal & run:
 <br />
-```git clone https://github.com/Cynthefer/Learn-C
+```<git clone https://github.com/Cynthefer/Learn-C>
 ```
 </p>
